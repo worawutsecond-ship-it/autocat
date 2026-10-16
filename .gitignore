@@ -1,0 +1,9 @@
+.env
+data/
+node_modules/
+*.sqlite*
+*.log
+rivals-license-device.json
+rivals-license-session.json
+rivals-skins-runtime.luau
+RIVALS-Skins-*.luau
